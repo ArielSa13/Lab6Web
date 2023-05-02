@@ -16,11 +16,11 @@ jika di klik maka akan muncul tampilan about dan contact yang terhubung dengan m
 
 <img src="https://arielsa.mra.my.id/foto/lab6/4.png">
 
-kembali lagi pada home maka akan masuk pada tampilan awal yang berisikan tabel, jika ingin menambahkan data anda bisa klik tombol "tambah" kemudian akan muncul tampilan form input yang menggunakan nim sebagai keynya
+Form Tambah
 
 <img src="https://arielsa.mra.my.id/foto/lab6/5.png">
 
-lalu kembali pada home, kita bisa mengubah data yang sudah ditambahkan dengan klik tombol "update" kemudian akan muncul form yang berisi data dan bisa kita ubah
+Ubah
 
 <img src="https://arielsa.mra.my.id/foto/lab6/6.png">
 
